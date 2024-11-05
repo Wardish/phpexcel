@@ -5,9 +5,9 @@ PHP library for writing and reading files in EXCEL format. Modified https://gith
 ## Installation
 
 ```
-composer require diswebru/phpexcel
+composer require wardish/phpexcel
 ```
 
 ## License
 
-PHPExcel by DisWEBru is licensed under [MIT](https://github.com/DisWEBru/phpexcel/blob/master/license.md).
+PHPExcel by Wardish,LLC. is licensed under [MIT](https://github.com/DisWEBru/phpexcel/blob/master/license.md).

@@ -1,14 +1,14 @@
 {
-    "name": "diswebru/phpexcel",
-    "description": "PHP library for writing and reading files in EXCEL format. Modified to work on PHP 8.",
+    "name": "wardish/phpexcel",
+    "description": "PHP library for writing and reading files in EXCEL format. Modified to work on PHP 8. Forked from DisWEBru/phpexcel",
     "keywords": ["PHP","Excel","OpenXML","xlsx","xls","spreadsheet"],
-    "homepage": "https://github.com/DisWEBru/phpexcel",
+    "homepage": "https://github.com/wardish/phpexcel",
     "type": "library",
     "license": "LGPL-2.1",
     "authors": [
         {
-            "name": "Denis Romashkov",
-            "homepage": "https://disweb.ru"
+            "name": "Tetsuya Mito",
+            "homepage": "https://www.wardish.jp"
         }
     ],
     "require": {
